@@ -16,4 +16,4 @@
   * Matplotlib for publication-quality visualizations
   * IPython for interactive execution and sharing of code
   * Scikit-Learnfor machine learning
-  
+
